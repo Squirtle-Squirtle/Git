@@ -1,0 +1,40 @@
+Commands and git commands
+ls- list all files in current directory
+pwd- current directory
+cd _FILE_ - change directory to
+mkdir _NAME_ - create directory
+git init - Initialized empty Git repository
+ls -a - list hidden files
+ls .git- show hidden git files and folder
+touch _file_ - create a new file
+git status- check which files committed and not
+git add . - add all untracked files
+git add names.txt- add individual file
+git commit -m "1st file added"- commit added files
+git config --global user.email "you@example.com"- add user id of github
+vi file name- write to a file
+esc- exit writing 
+colon wq save writing in file
+cat FILENAME - open the written content
+git stagged filename- undo modified commited file
+git log- history
+git reset commit code- go back to the commit code history
+git stash- send backstage the uncommited files
+git stash pop - come to the stage
+git stash clear - clear stash
+git remote add origin https://github.com/abhishekkrgit/roboticsclubnitpweb.git- push repositary to local machine
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
